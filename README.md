@@ -1,7 +1,7 @@
 # Mechwart 11.f Class | Project Repository Vol I. ⭐
 > The members of the team: Varga Máté, Földi Soma, Katona Konstantin.
 ### About the Project:💻
-Members role: Máté ~ dealing with random generating, Soma ~ Web development and CSS styling, Constantine ~ Sorting readed values (Python, customtkinter UI support)
+Members role: Máté ~ dealing with random generating, Soma ~ Web development and CSS styling, Koni ~ Sorting readed values (Python, customtkinter UI support)
 ### All supported langs: 👨‍💻 
 - Python(MayB UI support)🔵
 - HTML(5)                 🟠
