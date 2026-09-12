@@ -16,7 +16,7 @@ I uploaded it, so you don't need to search on the website, but I leave here the 
 https://miklospeter.wordpress.com 
 # Working leaderboard:
 You can check here the team's current state!
-| Names    |   Máté    |    Soma    |  Constantine  |
+| Names    |   Máté    |    Soma    |  Koni  |
 |    ---   |    ---    |    ---     |      ---      |
 | Ready    |    ✅    |     ✅     |        ✅     |
 | Tested   |    ✅    |     ✅     |        ✅     |
